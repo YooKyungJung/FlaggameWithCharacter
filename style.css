@@ -1,0 +1,115 @@
+body{
+  background-color:#fdb18f;
+  font-family:'맑은 고딕', 돋움,굴림;
+  text-align: center;
+}
+#간격 {
+  margin-top:50px;
+}
+
+#함께놀자 {
+  background-image: url(./image/함께놀자.png);
+  width:1000px;
+  height:136px;
+  border: 0;
+  margin:0 auto;
+  background-repeat:no-repeat;
+}
+
+#청백뿡뿡이 {
+  background-image: url(./image/청백뿡뿡이.png);
+  width:450px;
+  height:450px;
+  margin:0 auto;
+  border: 0;
+  background-repeat:no-repeat;
+}
+
+#게임시작 {
+  background-image: url(./image/게임시작.png);
+  width:168px;
+  height:49px;
+  border: 0;
+  background-repeat:no-repeat;
+}
+
+#게임소개 {
+  background-image: url(./image/게임소개.png);
+  width:168px;
+  height:49px;
+  border: 0;
+  background-repeat:no-repeat;
+}
+
+#룰소개 {
+  background-image: url(./image/룰소개.png);
+  width:1000px;
+  height:384px;
+  border: 0;
+  margin:0 auto;
+  background-repeat:no-repeat;
+}
+
+#다시시작 {
+  background-image: url(./image/다시시작.png);
+  width:168px;
+  height:49px;
+  border: 0;
+  background-repeat:no-repeat;
+}
+
+#그냥그냥그냥 {
+  background-image: url(./image/그냥그냥그냥.png);
+  width:500px;
+  height:80px;
+  border: 0;
+  margin:0 auto;
+  background-repeat:no-repeat;
+}
+
+#게임오버 {
+  background-image: url(./image/게임오버.png);
+  width:850px;
+  height:535px;
+  border: 0;
+  margin:0 auto;
+  background-repeat:no-repeat;
+}
+
+#게임_m {
+  float: left;
+  width: 33%;
+  border: 1px
+}
+
+#백기up {
+  background-image: url(./image/백기올려_글씨.png);
+  width:220px;
+  height:64px;
+  border: 0;
+  background-repeat:no-repeat;
+}
+
+#백기down {
+  background-image: url(./image/백기내려_글씨.png);
+  width:220px;
+  height:64px;
+  border: 0;
+  background-repeat:no-repeat;
+}
+
+#청기up {
+  background-image: url(./image/청기올려_글씨.png);
+  width:220px;
+  height:64px;
+  border: 0;
+  background-repeat:no-repeat;
+}
+
+#청기down {
+  background-image: url(./image/청기내려_글씨.png);
+  width:220px;
+  height:64px;
+  border: 0;
+  background-repeat:no-repeat;
+}
